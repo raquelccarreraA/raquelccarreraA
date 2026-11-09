@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://raquelccarreraa.github.io/Porfolio-raquelcarrera/"><img src="https://img.shields.io/badge/Portfolio-2c4a78?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195"><img src="https://img.shields.io/badge/LinkedIn-2c4a78?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:raquel.ccarrera@gmail.com"><img src="https://img.shields.io/badge/Gmail-2c4a78?style=for-the-badge" alt="Gmail"></a>
   <a href="https://www.toveriai.com"><img src="https://img.shields.io/badge/toVeriAI-a4532a?style=for-the-badge" alt="toVeriAI"></a>
 </p>
 
@@ -33,4 +34,4 @@ Desarrolladora full stack con foco en **Java y Spring Boot** en el backend y **R
 - [**ArgaQuest**](https://argaquest.fernandowirtz.com/): juego educativo en gallego, primer premio de Innovación Educativa de la Xunta. <sub>React · Spring Boot · WebSockets</sub>
 - [**Portfolio**](https://github.com/raquelccarreraA/Porfolio-raquelcarrera): mi web personal, hecha a mano con HTML, CSS y JavaScript, en tres idiomas.
 
-<sub>¿Tienes una oferta? Escríbeme desde la sección de contacto de mi <a href="https://raquelccarreraa.github.io/Porfolio-raquelcarrera/">portfolio</a> o por <a href="https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195">LinkedIn</a>.</sub>
+<sub>¿Tienes una oferta? Escríbeme a <a href="mailto:raquel.ccarrera@gmail.com">raquel.ccarrera@gmail.com</a>, por <a href="https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195">LinkedIn</a> o desde mi <a href="https://raquelccarreraa.github.io/Porfolio-raquelcarrera/">portfolio</a>.</sub>

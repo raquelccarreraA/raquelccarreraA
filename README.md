@@ -10,7 +10,7 @@
 Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y **React** en la interfaz. También programo en **RPG** sobre IBM i e integro **LLMs** en productos reales. Llevo proyectos de la idea a producción y ahora me especializo en **IA y Big Data**.
 
 - **toVeriAI**: mi producto con IA, en producción. API en Spring Boot con Spring Security y JWT, frontend en React, cinco LLMs orquestados y un modelo propio, VeriAI.
-- **Seidor**: full stack en la modernización de aplicaciones IBM i, de la pantalla verde a React, con servicios REST, Spring Security y avisos automáticos con n8n.
+- **Seidor**: full stack en la migración de un sistema legacy IBM i, de la pantalla verde a React, con servicios REST, Spring Security y avisos automáticos con n8n.
 - **ArgaQuest**: Project Manager y frontend del juego educativo que ganó el primer premio de Innovación Educativa de la Xunta de Galicia.
 
 ### Proyectos
@@ -48,4 +48,4 @@ Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y 
 
 ¿Tienes un proyecto o una oferta entre manos? Escríbeme: respondo rápido y con ganas.
 
-**[raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)**
+📫 **[raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195) &nbsp;·&nbsp; 🌐 [Portfolio](https://raquelccarreraa.github.io/Porfolio-raquelcarrera/)

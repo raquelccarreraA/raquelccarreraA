@@ -46,6 +46,6 @@ Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y 
 
 ### Contacto
 
-¿Tienes un proyecto, una oferta o solo ganas de hablar de código? Escríbeme, que siempre hay tiempo para un buen café ☕
+¿Tienes un proyecto o una oferta entre manos? Escríbeme: respondo rápido y con ganas.
 
 **[raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)**

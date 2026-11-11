@@ -1,13 +1,13 @@
 # Raquel Comesaña Carrera
 
 **Desarrolladora Full Stack · Java · Spring Boot · React**<br>
-<sub>A Coruña, Galicia · Disponible, incorporación inmediata</sub>
+<sub>A Coruña, Galicia</sub>
 
-[Portfolio](https://raquelccarreraa.github.io/Porfolio-raquelcarrera/) · [LinkedIn](https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195) · [raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)
+[Portfolio](https://raquelccarreraa.github.io/Porfolio-raquelcarrera/) · [LinkedIn](https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195)
 
 ---
 
-Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y **React** en la interfaz. Llevo productos de la idea a producción y ahora me especializo en **IA y Big Data**.
+Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y **React** en la interfaz. También programo en **RPG** sobre IBM i e integro **LLMs** en productos reales. Llevo proyectos de la idea a producción y ahora me especializo en **IA y Big Data**.
 
 - **toVeriAI**: mi producto con IA, en producción. API en Spring Boot con Spring Security y JWT, frontend en React, cinco LLMs orquestados y un modelo propio, VeriAI.
 - **Seidor**: full stack en la modernización de aplicaciones IBM i, de la pantalla verde a React, con servicios REST, Spring Security y avisos automáticos con n8n.
@@ -30,7 +30,7 @@ Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y 
     <td width="33%" valign="top">
       <a href="https://raquelccarreraa.github.io/Porfolio-raquelcarrera/"><img src="img/portfolio.jpg" alt="Portada de mi portfolio"></a><br>
       <a href="https://raquelccarreraa.github.io/Porfolio-raquelcarrera/"><strong>Portfolio</strong></a><br>
-      <sub>Mi web personal, hecha a mano y en tres idiomas.<br>HTML · CSS · JavaScript</sub>
+      <sub>Mi web personal, en tres idiomas.<br>HTML · CSS · JavaScript</sub>
     </td>
   </tr>
 </table>
@@ -43,3 +43,9 @@ Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y 
 </picture>
 
 <sub>También: Spring Security · JWT · JPA/Hibernate · JUnit · Mockito · DB2 · RPG FREE · n8n · Ollama · Scrum</sub>
+
+### Contacto
+
+¿Tienes un proyecto, una oferta o solo ganas de hablar de código? Escríbeme, que siempre hay tiempo para un buen café ☕
+
+**[raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)**

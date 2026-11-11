@@ -48,4 +48,4 @@ Construyo aplicaciones web completas con **Java y Spring Boot** en el backend y 
 
 ¿Tienes un proyecto o una oferta entre manos? Escríbeme: respondo rápido y con ganas.
 
-📫 **[raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195) &nbsp;·&nbsp; 🌐 [Portfolio](https://raquelccarreraa.github.io/Porfolio-raquelcarrera/)
+📫 **[raquel.ccarrera@gmail.com](mailto:raquel.ccarrera@gmail.com)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/raquel-comesa%C3%B1a-carrera-1646ba195)
